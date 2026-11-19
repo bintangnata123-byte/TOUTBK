@@ -4,6 +4,7 @@ import Footer from './Footer';
 import QuestionPaletteModal from './QuestionPaletteModal';
 import ConfirmModal from './ConfirmModal';
 import { ZoomIn, ZoomOut, RotateCcw, Maximize2, Trash2, BookOpen, FileText, Split, ChevronUp, ChevronDown } from 'lucide-react';
+import { getAssetUrl } from '../utils/assetUrl';
 
 export default function ExamScreen({
   subtest,
@@ -285,7 +286,7 @@ export default function ExamScreen({
                     <div className="overflow-y-auto max-h-[32vh] sm:max-h-[36vh] border border-slate-200 rounded-lg bg-white p-2 shadow-inner">
                       <div className="overflow-x-auto flex justify-center">
                         <img
-                          src={currentQ.stimulusImage}
+                          src={getAssetUrl(currentQ.stimulusImage)}
                           alt="Wacana Stimulus"
                           style={{ transform: `scale(${zoomLevel})`, transformOrigin: 'top center' }}
                           className="max-w-full h-auto transition-transform duration-150"
@@ -326,7 +327,7 @@ export default function ExamScreen({
                     </div>
                     <div className="overflow-x-auto flex justify-center bg-white p-2 rounded-lg border border-slate-200 shadow-2xs">
                       <img
-                        src={currentQ.stimulusImage}
+                        src={getAssetUrl(currentQ.stimulusImage)}
                         alt="Wacana Stimulus"
                         style={{ transform: `scale(${zoomLevel})`, transformOrigin: 'top center' }}
                         className="max-w-full h-auto transition-transform duration-150"
@@ -364,11 +365,11 @@ export default function ExamScreen({
               {currentQ.image ? (
                 <div className="w-full flex justify-center">
                   <img
-                    src={currentQ.image}
+                    src={getAssetUrl(currentQ.image)}
                     alt={`Soal Nomor ${currentQ.number}`}
                     style={{ transform: `scale(${zoomLevel})`, transformOrigin: 'top center' }}
                     className="max-w-full h-auto object-contain transition-transform duration-150"
-                    onClick={() => setModalImage(currentQ.image)}
+                    onClick={() => setModalImage(getAssetUrl(currentQ.image))}
                     title="Klik untuk melihat ukuran penuh"
                   />
                 </div>
@@ -604,7 +605,7 @@ export default function ExamScreen({
           onClick={() => setModalImage(null)}
         >
           <div className="bg-white p-2 rounded-2xl max-w-4xl max-h-[90vh] overflow-auto">
-            <img src={modalImage} alt="Preview Soal" className="max-w-full h-auto" />
+            <img src={getAssetUrl(modalImage)} alt="Preview Soal" className="max-w-full h-auto" />
           </div>
         </div>
       )}

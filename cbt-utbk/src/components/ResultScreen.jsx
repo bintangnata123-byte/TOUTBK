@@ -6,6 +6,7 @@ import {
   Award, BarChart3, Binary, Copy, Check,
   Download, Table, User, GraduationCap
 } from 'lucide-react';
+import { getAssetUrl } from '../utils/assetUrl';
 
 export default function ResultScreen({
   allAnswers = {},
@@ -710,11 +711,27 @@ export default function ResultScreen({
                 </div>
               )}
 
+              {/* Wacana / Teks Stimulus jika ada */}
+              {currentReviewQ.stimulusImage && (
+                <div className="bg-white p-3 sm:p-5 rounded-xl border border-slate-200 shadow-2xs flex flex-col items-center">
+                  <div className="w-full text-xs font-bold uppercase tracking-wider mb-2 text-blue-700 flex items-center gap-1.5">
+                    <span>Wacana / Teks Stimulus</span>
+                  </div>
+                  <div className="overflow-x-auto w-full flex justify-center">
+                    <img
+                      src={getAssetUrl(currentReviewQ.stimulusImage)}
+                      alt="Wacana Stimulus"
+                      className="max-w-full h-auto object-contain"
+                    />
+                  </div>
+                </div>
+              )}
+
               {/* Tampilan Gambar Soal */}
               <div className="bg-white p-3 sm:p-5 rounded-xl border border-slate-200 shadow-2xs flex justify-center overflow-x-auto">
                 {currentReviewQ.image ? (
                   <img
-                    src={currentReviewQ.image}
+                    src={getAssetUrl(currentReviewQ.image)}
                     alt={`Soal No ${currentReviewQ.number}`}
                     className="max-w-full h-auto object-contain"
                   />
