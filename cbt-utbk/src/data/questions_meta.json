@@ -1,0 +1,3133 @@
+{
+  "PU": [
+    {
+      "number": 1,
+      "image": "/questions/PU_q1.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "D",
+      "stimulusImage": null,
+      "page": 0,
+      "shape": [
+        400,
+        1369
+      ]
+    },
+    {
+      "number": 2,
+      "image": "/questions/PU_q2.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "E",
+      "stimulusImage": null,
+      "page": 0,
+      "shape": [
+        307,
+        1238
+      ]
+    },
+    {
+      "number": 3,
+      "image": "/questions/PU_q3.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "C",
+      "stimulusImage": null,
+      "page": 0,
+      "shape": [
+        309,
+        1239
+      ]
+    },
+    {
+      "number": 4,
+      "image": "/questions/PU_q4.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "E",
+      "stimulusImage": null,
+      "page": 0,
+      "shape": [
+        300,
+        1240
+      ]
+    },
+    {
+      "number": 5,
+      "image": "/questions/PU_q5.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "D",
+      "stimulusImage": null,
+      "page": 0,
+      "shape": [
+        348,
+        885
+      ]
+    },
+    {
+      "number": 6,
+      "image": "/questions/PU_q6.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "B",
+      "stimulusImage": null,
+      "page": 0,
+      "shape": [
+        422,
+        1368
+      ]
+    },
+    {
+      "number": 7,
+      "image": "/questions/PU_q7.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "E",
+      "stimulusImage": null,
+      "page": 1,
+      "shape": [
+        346,
+        1239
+      ]
+    },
+    {
+      "number": 8,
+      "image": "/questions/PU_q8.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "A",
+      "stimulusImage": null,
+      "page": 1,
+      "shape": [
+        384,
+        1240
+      ]
+    },
+    {
+      "number": 9,
+      "image": "/questions/PU_q9.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "C",
+      "stimulusImage": null,
+      "page": 1,
+      "shape": [
+        535,
+        1241
+      ]
+    },
+    {
+      "number": 10,
+      "image": "/questions/PU_q10.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "A",
+      "stimulusImage": null,
+      "page": 1,
+      "shape": [
+        533,
+        1370
+      ]
+    },
+    {
+      "number": 11,
+      "image": "/questions/PU_q11.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "B",
+      "stimulusImage": null,
+      "page": 2,
+      "shape": [
+        460,
+        1240
+      ]
+    },
+    {
+      "number": 12,
+      "image": "/questions/PU_q12.png",
+      "type": "complex_table",
+      "options": [
+        "Didukung",
+        "Tidak Didukung"
+      ],
+      "key": [
+        "Tidak Didukung",
+        "Didukung",
+        "Didukung",
+        "Didukung",
+        "Tidak Didukung"
+      ],
+      "stimulusImage": null,
+      "page": 2,
+      "shape": [
+        774,
+        1239
+      ],
+      "tableConfig": {
+        "columns": [
+          "Didukung",
+          "Tidak Didukung"
+        ],
+        "rowCount": 5,
+        "statementLabels": [
+          "Pernyataan 1",
+          "Pernyataan 2",
+          "Pernyataan 3",
+          "Pernyataan 4",
+          "Pernyataan 5"
+        ]
+      },
+      "short_key": "TD-D-D-D-TD"
+    },
+    {
+      "number": 13,
+      "image": "/questions/PU_q13.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "E",
+      "stimulusImage": null,
+      "page": 2,
+      "shape": [
+        726,
+        1369
+      ]
+    },
+    {
+      "number": 14,
+      "image": "/questions/PU_q14.png",
+      "type": "complex_table",
+      "options": [
+        "Memperlemah",
+        "Tidak Memperlemah"
+      ],
+      "key": [
+        "Tidak Memperlemah",
+        "Memperlemah",
+        "Tidak Memperlemah",
+        "Memperlemah",
+        "Tidak Memperlemah"
+      ],
+      "stimulusImage": null,
+      "page": 3,
+      "shape": [
+        849,
+        1240
+      ],
+      "tableConfig": {
+        "columns": [
+          "Memperlemah",
+          "Tidak Memperlemah"
+        ],
+        "rowCount": 5,
+        "statementLabels": [
+          "Pernyataan 1",
+          "Pernyataan 2",
+          "Pernyataan 3",
+          "Pernyataan 4",
+          "Pernyataan 5"
+        ]
+      },
+      "short_key": "TM-M-TM-M-TM"
+    },
+    {
+      "number": 15,
+      "image": "/questions/PU_q15.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "E",
+      "stimulusImage": null,
+      "page": 3,
+      "shape": [
+        616,
+        1239
+      ]
+    },
+    {
+      "number": 16,
+      "image": "/questions/PU_q16.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "A",
+      "stimulusImage": null,
+      "page": 4,
+      "shape": [
+        666,
+        1370
+      ]
+    },
+    {
+      "number": 17,
+      "image": "/questions/PU_q17.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "A",
+      "stimulusImage": null,
+      "page": 4,
+      "shape": [
+        651,
+        1240
+      ]
+    },
+    {
+      "number": 18,
+      "image": "/questions/PU_q18.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "B",
+      "stimulusImage": null,
+      "page": 4,
+      "shape": [
+        724,
+        1367
+      ]
+    },
+    {
+      "number": 19,
+      "image": "/questions/PU_q19.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "C",
+      "stimulusImage": null,
+      "page": 5,
+      "shape": [
+        652,
+        1239
+      ]
+    },
+    {
+      "number": 20,
+      "image": "/questions/PU_q20.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "D",
+      "stimulusImage": null,
+      "page": 5,
+      "shape": [
+        478,
+        1239
+      ]
+    },
+    {
+      "number": 21,
+      "image": "/questions/PU_q21.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "E",
+      "stimulusImage": null,
+      "page": 5,
+      "shape": [
+        522,
+        1240
+      ]
+    },
+    {
+      "number": 22,
+      "image": "/questions/PU_q22.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "C",
+      "stimulusImage": null,
+      "page": 6,
+      "shape": [
+        285,
+        1368
+      ]
+    },
+    {
+      "number": 23,
+      "image": "/questions/PU_q23.png",
+      "type": "short_answer",
+      "options": [],
+      "key": "71",
+      "stimulusImage": null,
+      "page": 6,
+      "shape": [
+        80,
+        1238
+      ]
+    },
+    {
+      "number": 24,
+      "image": "/questions/PU_q24.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "B",
+      "stimulusImage": null,
+      "page": 6,
+      "shape": [
+        150,
+        794
+      ]
+    },
+    {
+      "number": 25,
+      "image": "/questions/PU_q25.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "A",
+      "stimulusImage": null,
+      "page": 6,
+      "shape": [
+        150,
+        795
+      ]
+    },
+    {
+      "number": 26,
+      "image": "/questions/PU_q26.png",
+      "type": "short_answer",
+      "options": [],
+      "key": "10",
+      "stimulusImage": null,
+      "page": 6,
+      "shape": [
+        45,
+        845
+      ]
+    },
+    {
+      "number": 27,
+      "image": "/questions/PU_q27.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "E",
+      "stimulusImage": null,
+      "page": 6,
+      "shape": [
+        269,
+        1240
+      ]
+    },
+    {
+      "number": 28,
+      "image": "/questions/PU_q28.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "E",
+      "stimulusImage": null,
+      "page": 6,
+      "shape": [
+        230,
+        1239
+      ]
+    },
+    {
+      "number": 29,
+      "image": "/questions/PU_q29.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "C",
+      "stimulusImage": null,
+      "page": 6,
+      "shape": [
+        227,
+        1239
+      ]
+    },
+    {
+      "number": 30,
+      "image": "/questions/PU_q30.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "B",
+      "stimulusImage": null,
+      "page": 6,
+      "shape": [
+        228,
+        1240
+      ]
+    }
+  ],
+  "PPU": [
+    {
+      "number": 1,
+      "image": "/questions/PPU_q1.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "C",
+      "stimulusImage": "/questions/PPU_stim_1_5.png",
+      "page": 0,
+      "shape": [
+        190,
+        1237
+      ]
+    },
+    {
+      "number": 2,
+      "image": "/questions/PPU_q2.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "D",
+      "stimulusImage": "/questions/PPU_stim_1_5.png",
+      "page": 0,
+      "shape": [
+        193,
+        1238
+      ]
+    },
+    {
+      "number": 3,
+      "image": "/questions/PPU_q3.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "C",
+      "stimulusImage": "/questions/PPU_stim_1_5.png",
+      "page": 0,
+      "shape": [
+        234,
+        1238
+      ]
+    },
+    {
+      "number": 4,
+      "image": "/questions/PPU_q4.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "A",
+      "stimulusImage": "/questions/PPU_stim_1_5.png",
+      "page": 0,
+      "shape": [
+        193,
+        1239
+      ]
+    },
+    {
+      "number": 5,
+      "image": "/questions/PPU_q5.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "E",
+      "stimulusImage": "/questions/PPU_stim_1_5.png",
+      "page": 0,
+      "shape": [
+        310,
+        1238
+      ]
+    },
+    {
+      "number": 6,
+      "image": "/questions/PPU_q6.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "D",
+      "stimulusImage": "/questions/PPU_stim_6_10.png",
+      "page": 1,
+      "shape": [
+        231,
+        1229
+      ]
+    },
+    {
+      "number": 7,
+      "image": "/questions/PPU_q7.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "B",
+      "stimulusImage": "/questions/PPU_stim_6_10.png",
+      "page": 1,
+      "shape": [
+        194,
+        1238
+      ]
+    },
+    {
+      "number": 8,
+      "image": "/questions/PPU_q8.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "C",
+      "stimulusImage": "/questions/PPU_stim_6_10.png",
+      "page": 1,
+      "shape": [
+        192,
+        1238
+      ]
+    },
+    {
+      "number": 9,
+      "image": "/questions/PPU_q9.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "C",
+      "stimulusImage": "/questions/PPU_stim_6_10.png",
+      "page": 1,
+      "shape": [
+        191,
+        1238
+      ]
+    },
+    {
+      "number": 10,
+      "image": "/questions/PPU_q10.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "D",
+      "stimulusImage": "/questions/PPU_stim_6_10.png",
+      "page": 2,
+      "shape": [
+        198,
+        1237
+      ]
+    },
+    {
+      "number": 11,
+      "image": "/questions/PPU_q11.png",
+      "type": "short_answer",
+      "options": [],
+      "key": "3",
+      "stimulusImage": "/questions/PPU_stim_11_15.png",
+      "page": 2,
+      "shape": [
+        80,
+        1237
+      ]
+    },
+    {
+      "number": 12,
+      "image": "/questions/PPU_q12.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "B",
+      "stimulusImage": "/questions/PPU_stim_11_15.png",
+      "page": 2,
+      "shape": [
+        193,
+        1237
+      ]
+    },
+    {
+      "number": 13,
+      "image": "/questions/PPU_q13.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "C",
+      "stimulusImage": "/questions/PPU_stim_11_15.png",
+      "page": 2,
+      "shape": [
+        191,
+        1237
+      ]
+    },
+    {
+      "number": 14,
+      "image": "/questions/PPU_q14.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "D",
+      "stimulusImage": "/questions/PPU_stim_11_15.png",
+      "page": 2,
+      "shape": [
+        271,
+        1237
+      ]
+    },
+    {
+      "number": 15,
+      "image": "/questions/PPU_q15.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "E",
+      "stimulusImage": "/questions/PPU_stim_11_15.png",
+      "page": 2,
+      "shape": [
+        194,
+        1237
+      ]
+    },
+    {
+      "number": 16,
+      "image": "/questions/PPU_q16.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "B",
+      "stimulusImage": "/questions/PPU_stim_16_20.png",
+      "page": 3,
+      "shape": [
+        191,
+        1237
+      ]
+    },
+    {
+      "number": 17,
+      "image": "/questions/PPU_q17.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "E",
+      "stimulusImage": "/questions/PPU_stim_16_20.png",
+      "page": 3,
+      "shape": [
+        194,
+        1237
+      ]
+    },
+    {
+      "number": 18,
+      "image": "/questions/PPU_q18.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "D",
+      "stimulusImage": "/questions/PPU_stim_16_20.png",
+      "page": 3,
+      "shape": [
+        382,
+        1241
+      ]
+    },
+    {
+      "number": 19,
+      "image": "/questions/PPU_q19.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "D",
+      "stimulusImage": "/questions/PPU_stim_16_20.png",
+      "page": 3,
+      "shape": [
+        196,
+        1237
+      ]
+    },
+    {
+      "number": 20,
+      "image": "/questions/PPU_q20.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "D",
+      "stimulusImage": "/questions/PPU_stim_16_20.png",
+      "page": 3,
+      "shape": [
+        194,
+        1238
+      ]
+    }
+  ],
+  "PBM": [
+    {
+      "number": 1,
+      "image": "/questions/PBM_q1.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "C",
+      "stimulusImage": "/questions/PBM_stim_1_6.png",
+      "page": 0,
+      "shape": [
+        274,
+        619
+      ]
+    },
+    {
+      "number": 2,
+      "image": "/questions/PBM_q2.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "A",
+      "stimulusImage": "/questions/PBM_stim_1_6.png",
+      "page": 0,
+      "shape": [
+        340,
+        620
+      ]
+    },
+    {
+      "number": 3,
+      "image": "/questions/PBM_q3.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "C",
+      "stimulusImage": "/questions/PBM_stim_1_6.png",
+      "page": 0,
+      "shape": [
+        310,
+        620
+      ]
+    },
+    {
+      "number": 4,
+      "image": "/questions/PBM_q4.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "B",
+      "stimulusImage": "/questions/PBM_stim_1_6.png",
+      "page": 0,
+      "shape": [
+        307,
+        622
+      ]
+    },
+    {
+      "number": 5,
+      "image": "/questions/PBM_q5.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "D",
+      "stimulusImage": "/questions/PBM_stim_1_6.png",
+      "page": 0,
+      "shape": [
+        555,
+        626
+      ]
+    },
+    {
+      "number": 6,
+      "image": "/questions/PBM_q6.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "E",
+      "stimulusImage": "/questions/PBM_stim_1_6.png",
+      "page": 0,
+      "shape": [
+        323,
+        624
+      ]
+    },
+    {
+      "number": 7,
+      "image": "/questions/PBM_q7.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "E",
+      "stimulusImage": "/questions/PBM_stim_7_10.png",
+      "page": 1,
+      "shape": [
+        272,
+        620
+      ]
+    },
+    {
+      "number": 8,
+      "image": "/questions/PBM_q8.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "C",
+      "stimulusImage": "/questions/PBM_stim_7_10.png",
+      "page": 1,
+      "shape": [
+        740,
+        620
+      ]
+    },
+    {
+      "number": 9,
+      "image": "/questions/PBM_q9.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "A",
+      "stimulusImage": "/questions/PBM_stim_7_10.png",
+      "page": 1,
+      "shape": [
+        922,
+        625
+      ]
+    },
+    {
+      "number": 10,
+      "image": "/questions/PBM_q10.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "B",
+      "stimulusImage": "/questions/PBM_stim_7_10.png",
+      "page": 1,
+      "shape": [
+        605,
+        625
+      ]
+    },
+    {
+      "number": 11,
+      "image": "/questions/PBM_q11.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "E",
+      "stimulusImage": "/questions/PBM_stim_11_14.png",
+      "page": 2,
+      "shape": [
+        535,
+        619
+      ]
+    },
+    {
+      "number": 12,
+      "image": "/questions/PBM_q12.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "C",
+      "stimulusImage": "/questions/PBM_stim_11_14.png",
+      "page": 2,
+      "shape": [
+        380,
+        619
+      ]
+    },
+    {
+      "number": 13,
+      "image": "/questions/PBM_q13.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "A",
+      "stimulusImage": "/questions/PBM_stim_11_14.png",
+      "page": 2,
+      "shape": [
+        351,
+        622
+      ]
+    },
+    {
+      "number": 14,
+      "image": "/questions/PBM_q14.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "D",
+      "stimulusImage": "/questions/PBM_stim_11_14.png",
+      "page": 2,
+      "shape": [
+        831,
+        626
+      ]
+    },
+    {
+      "number": 15,
+      "image": "/questions/PBM_q15.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "D",
+      "stimulusImage": "/questions/PBM_stim_15_18.png",
+      "page": 3,
+      "shape": [
+        340,
+        619
+      ]
+    },
+    {
+      "number": 16,
+      "image": "/questions/PBM_q16.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "E",
+      "stimulusImage": "/questions/PBM_stim_15_18.png",
+      "page": 3,
+      "shape": [
+        360,
+        619
+      ]
+    },
+    {
+      "number": 17,
+      "image": "/questions/PBM_q17.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "B",
+      "stimulusImage": "/questions/PBM_stim_15_18.png",
+      "page": 3,
+      "shape": [
+        541,
+        624
+      ]
+    },
+    {
+      "number": 18,
+      "image": "/questions/PBM_q18.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "A",
+      "stimulusImage": "/questions/PBM_stim_15_18.png",
+      "page": 3,
+      "shape": [
+        496,
+        625
+      ]
+    },
+    {
+      "number": 19,
+      "image": "/questions/PBM_q19.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "C",
+      "stimulusImage": "/questions/PBM_stim_19_20.png",
+      "page": 3,
+      "shape": [
+        497,
+        750
+      ]
+    },
+    {
+      "number": 20,
+      "image": "/questions/PBM_q20.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "C",
+      "stimulusImage": "/questions/PBM_stim_19_20.png",
+      "page": 4,
+      "shape": [
+        235,
+        620
+      ]
+    }
+  ],
+  "PK": [
+    {
+      "number": 1,
+      "image": "/questions/PK_q1.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "A",
+      "stimulusImage": null,
+      "page": 0,
+      "shape": [
+        380,
+        750
+      ]
+    },
+    {
+      "number": 2,
+      "image": "/questions/PK_q2.png",
+      "type": "short_answer",
+      "options": [],
+      "key": "2",
+      "stimulusImage": null,
+      "page": 0,
+      "shape": [
+        215,
+        620
+      ]
+    },
+    {
+      "number": 3,
+      "image": "/questions/PK_q3.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "B",
+      "stimulusImage": null,
+      "page": 0,
+      "shape": [
+        335,
+        620
+      ]
+    },
+    {
+      "number": 4,
+      "image": "/questions/PK_q4.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "E",
+      "stimulusImage": null,
+      "page": 0,
+      "shape": [
+        360,
+        621
+      ]
+    },
+    {
+      "number": 5,
+      "image": "/questions/PK_q5.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "A",
+      "stimulusImage": null,
+      "page": 0,
+      "shape": [
+        340,
+        620
+      ]
+    },
+    {
+      "number": 6,
+      "image": "/questions/PK_q6.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "B",
+      "stimulusImage": null,
+      "page": 0,
+      "shape": [
+        297,
+        620
+      ]
+    },
+    {
+      "number": 7,
+      "image": "/questions/PK_q7.png",
+      "type": "short_answer",
+      "options": [],
+      "key": "1",
+      "stimulusImage": null,
+      "page": 0,
+      "shape": [
+        277,
+        626
+      ]
+    },
+    {
+      "number": 8,
+      "image": "/questions/PK_q8.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "D",
+      "stimulusImage": null,
+      "page": 0,
+      "shape": [
+        740,
+        626
+      ]
+    },
+    {
+      "number": 9,
+      "image": "/questions/PK_q9.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "B",
+      "stimulusImage": null,
+      "page": 0,
+      "shape": [
+        350,
+        625
+      ]
+    },
+    {
+      "number": 10,
+      "image": "/questions/PK_q10.png",
+      "type": "complex_table",
+      "options": [
+        "Benar",
+        "Salah"
+      ],
+      "key": [
+        "Benar",
+        "Salah",
+        "Salah"
+      ],
+      "stimulusImage": null,
+      "page": 0,
+      "shape": [
+        517,
+        676
+      ],
+      "tableConfig": {
+        "columns": [
+          "Benar",
+          "Salah"
+        ],
+        "rowCount": 3,
+        "statementLabels": [
+          "Pernyataan 1",
+          "Pernyataan 2",
+          "Pernyataan 3"
+        ]
+      },
+      "short_key": "B-S-S"
+    },
+    {
+      "number": 11,
+      "image": "/questions/PK_q11.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "E",
+      "stimulusImage": null,
+      "page": 1,
+      "shape": [
+        370,
+        750
+      ]
+    },
+    {
+      "number": 12,
+      "image": "/questions/PK_q12.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "A",
+      "stimulusImage": null,
+      "page": 1,
+      "shape": [
+        395,
+        619
+      ]
+    },
+    {
+      "number": 13,
+      "image": "/questions/PK_q13.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "C",
+      "stimulusImage": null,
+      "page": 1,
+      "shape": [
+        640,
+        619
+      ]
+    },
+    {
+      "number": 14,
+      "image": "/questions/PK_q14.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "D",
+      "stimulusImage": null,
+      "page": 1,
+      "shape": [
+        767,
+        624
+      ]
+    },
+    {
+      "number": 15,
+      "image": "/questions/PK_q15.png",
+      "type": "short_answer",
+      "options": [],
+      "key": "48",
+      "stimulusImage": null,
+      "page": 1,
+      "shape": [
+        220,
+        625
+      ]
+    },
+    {
+      "number": 16,
+      "image": "/questions/PK_q16.png",
+      "type": "complex_table",
+      "options": [
+        "Benar",
+        "Salah"
+      ],
+      "key": [
+        "Benar",
+        "Benar",
+        "Benar"
+      ],
+      "stimulusImage": null,
+      "page": 1,
+      "shape": [
+        740,
+        626
+      ],
+      "tableConfig": {
+        "columns": [
+          "Benar",
+          "Salah"
+        ],
+        "rowCount": 3,
+        "statementLabels": [
+          "Pernyataan 1",
+          "Pernyataan 2",
+          "Pernyataan 3"
+        ]
+      },
+      "short_key": "B-B-B"
+    },
+    {
+      "number": 17,
+      "image": "/questions/PK_q17.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "B",
+      "stimulusImage": null,
+      "page": 1,
+      "shape": [
+        590,
+        625
+      ]
+    },
+    {
+      "number": 18,
+      "image": "/questions/PK_q18.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "A",
+      "stimulusImage": "/questions/PK_stim_18_19.png",
+      "page": 2,
+      "shape": [
+        188,
+        1237
+      ]
+    },
+    {
+      "number": 19,
+      "image": "/questions/PK_q19.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "C",
+      "stimulusImage": "/questions/PK_stim_18_19.png",
+      "page": 2,
+      "shape": [
+        187,
+        1237
+      ]
+    },
+    {
+      "number": 20,
+      "image": "/questions/PK_q20.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "key": "A",
+      "stimulusImage": null,
+      "page": 2,
+      "shape": [
+        329,
+        1240
+      ]
+    }
+  ],
+  "LID": [
+    {
+      "number": 1,
+      "image": "/questions/LID_q1.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "C",
+      "stimulusImage": "/questions/LID_stim_1_5.png",
+      "page": 0,
+      "shape": [
+        159,
+        1036
+      ]
+    },
+    {
+      "number": 2,
+      "image": "/questions/LID_q2.png",
+      "type": "complex_table",
+      "options": [
+        "Benar",
+        "Salah"
+      ],
+      "key": [
+        "Benar",
+        "Salah",
+        "Salah",
+        "Benar",
+        "Salah"
+      ],
+      "stimulusImage": "/questions/LID_stim_1_5.png",
+      "page": 0,
+      "shape": [
+        520,
+        1371
+      ],
+      "tableConfig": {
+        "columns": [
+          "Benar",
+          "Salah"
+        ],
+        "rowCount": 5,
+        "statementLabels": [
+          "Pernyataan 1",
+          "Pernyataan 2",
+          "Pernyataan 3",
+          "Pernyataan 4",
+          "Pernyataan 5"
+        ]
+      },
+      "short_key": "B-S-S-B-S"
+    },
+    {
+      "number": 3,
+      "image": "/questions/LID_q3.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "C",
+      "stimulusImage": "/questions/LID_stim_1_5.png",
+      "page": 1,
+      "shape": [
+        273,
+        1240
+      ]
+    },
+    {
+      "number": 4,
+      "image": "/questions/LID_q4.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "E",
+      "stimulusImage": "/questions/LID_stim_1_5.png",
+      "page": 1,
+      "shape": [
+        426,
+        1242
+      ]
+    },
+    {
+      "number": 5,
+      "image": "/questions/LID_q5.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "B",
+      "stimulusImage": "/questions/LID_stim_1_5.png",
+      "page": 1,
+      "shape": [
+        312,
+        1240
+      ]
+    },
+    {
+      "number": 6,
+      "image": "/questions/LID_q6.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "B",
+      "stimulusImage": "/questions/LID_stim_6_12.png",
+      "page": 2,
+      "shape": [
+        463,
+        1240
+      ]
+    },
+    {
+      "number": 7,
+      "image": "/questions/LID_q7.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "C",
+      "stimulusImage": "/questions/LID_stim_6_12.png",
+      "page": 2,
+      "shape": [
+        458,
+        1369
+      ]
+    },
+    {
+      "number": 8,
+      "image": "/questions/LID_q8.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "B",
+      "stimulusImage": "/questions/LID_stim_6_12.png",
+      "page": 3,
+      "shape": [
+        387,
+        1239
+      ]
+    },
+    {
+      "number": 9,
+      "image": "/questions/LID_q9.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "A",
+      "stimulusImage": "/questions/LID_stim_6_12.png",
+      "page": 3,
+      "shape": [
+        352,
+        1237
+      ]
+    },
+    {
+      "number": 10,
+      "image": "/questions/LID_q10.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "C",
+      "stimulusImage": "/questions/LID_stim_6_12.png",
+      "page": 3,
+      "shape": [
+        502,
+        1238
+      ]
+    },
+    {
+      "number": 11,
+      "image": "/questions/LID_q11.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "E",
+      "stimulusImage": "/questions/LID_stim_6_12.png",
+      "page": 3,
+      "shape": [
+        801,
+        1370
+      ]
+    },
+    {
+      "number": 12,
+      "image": "/questions/LID_q12.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "D",
+      "stimulusImage": "/questions/LID_stim_6_12.png",
+      "page": 4,
+      "shape": [
+        311,
+        1238
+      ]
+    },
+    {
+      "number": 13,
+      "image": "/questions/LID_q13.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "B",
+      "stimulusImage": "/questions/LID_stim_13_17.png",
+      "page": 5,
+      "shape": [
+        273,
+        1236
+      ]
+    },
+    {
+      "number": 14,
+      "image": "/questions/LID_q14.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "C",
+      "stimulusImage": "/questions/LID_stim_13_17.png",
+      "page": 5,
+      "shape": [
+        388,
+        1236
+      ]
+    },
+    {
+      "number": 15,
+      "image": "/questions/LID_q15.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "B",
+      "stimulusImage": "/questions/LID_stim_13_17.png",
+      "page": 5,
+      "shape": [
+        463,
+        1236
+      ]
+    },
+    {
+      "number": 16,
+      "image": "/questions/LID_q16.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "C",
+      "stimulusImage": "/questions/LID_stim_13_17.png",
+      "page": 5,
+      "shape": [
+        384,
+        1367
+      ]
+    },
+    {
+      "number": 17,
+      "image": "/questions/LID_q17.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "B",
+      "stimulusImage": "/questions/LID_stim_13_17.png",
+      "page": 6,
+      "shape": [
+        349,
+        1236
+      ]
+    },
+    {
+      "number": 18,
+      "image": "/questions/LID_q18.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "D",
+      "stimulusImage": "/questions/LID_stim_18_21.png",
+      "page": 7,
+      "shape": [
+        274,
+        1238
+      ]
+    },
+    {
+      "number": 19,
+      "image": "/questions/LID_q19.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "C",
+      "stimulusImage": "/questions/LID_stim_18_21.png",
+      "page": 7,
+      "shape": [
+        458,
+        1239
+      ]
+    },
+    {
+      "number": 20,
+      "image": "/questions/LID_q20.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "B",
+      "stimulusImage": "/questions/LID_stim_18_21.png",
+      "page": 7,
+      "shape": [
+        272,
+        1239
+      ]
+    },
+    {
+      "number": 21,
+      "image": "/questions/LID_q21.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "D",
+      "stimulusImage": "/questions/LID_stim_18_21.png",
+      "page": 7,
+      "shape": [
+        345,
+        1239
+      ]
+    },
+    {
+      "number": 22,
+      "image": "/questions/LID_q22.png",
+      "type": "complex_table",
+      "options": [
+        "Benar",
+        "Salah"
+      ],
+      "key": [
+        "Benar",
+        "Salah",
+        "Salah",
+        "Salah"
+      ],
+      "stimulusImage": "/questions/LID_stim_22_25.png",
+      "page": 9,
+      "shape": [
+        401,
+        1260
+      ],
+      "tableConfig": {
+        "columns": [
+          "Benar",
+          "Salah"
+        ],
+        "rowCount": 4,
+        "statementLabels": [
+          "Pernyataan 1",
+          "Pernyataan 2",
+          "Pernyataan 3",
+          "Pernyataan 4"
+        ]
+      },
+      "short_key": "B-S-S-S"
+    },
+    {
+      "number": 23,
+      "image": "/questions/LID_q23.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "C",
+      "stimulusImage": "/questions/LID_stim_22_25.png",
+      "page": 9,
+      "shape": [
+        307,
+        1239
+      ]
+    },
+    {
+      "number": 24,
+      "image": "/questions/LID_q24.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "B",
+      "stimulusImage": "/questions/LID_stim_22_25.png",
+      "page": 9,
+      "shape": [
+        274,
+        1168
+      ]
+    },
+    {
+      "number": 25,
+      "image": "/questions/LID_q25.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "E",
+      "stimulusImage": "/questions/LID_stim_22_25.png",
+      "page": 9,
+      "shape": [
+        273,
+        1240
+      ]
+    },
+    {
+      "number": 26,
+      "image": "/questions/LID_q26.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "D",
+      "stimulusImage": "/questions/LID_stim_26_30.png",
+      "page": 10,
+      "shape": [
+        502,
+        1240
+      ]
+    },
+    {
+      "number": 27,
+      "image": "/questions/LID_q27.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "B",
+      "stimulusImage": "/questions/LID_stim_26_30.png",
+      "page": 11,
+      "shape": [
+        438,
+        1370
+      ]
+    },
+    {
+      "number": 28,
+      "image": "/questions/LID_q28.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "C",
+      "stimulusImage": "/questions/LID_stim_26_30.png",
+      "page": 11,
+      "shape": [
+        273,
+        1237
+      ]
+    },
+    {
+      "number": 29,
+      "image": "/questions/LID_q29.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "E",
+      "stimulusImage": "/questions/LID_stim_26_30.png",
+      "page": 11,
+      "shape": [
+        274,
+        1237
+      ]
+    },
+    {
+      "number": 30,
+      "image": "/questions/LID_q30.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "C",
+      "stimulusImage": "/questions/LID_stim_26_30.png",
+      "page": 11,
+      "shape": [
+        311,
+        1237
+      ]
+    }
+  ],
+  "LIG": [
+    {
+      "number": 1,
+      "image": "/questions/LIG_q1.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "C",
+      "stimulusImage": "/questions/LIG_stim_1_5.png",
+      "page": 0,
+      "shape": [
+        274,
+        1318
+      ]
+    },
+    {
+      "number": 2,
+      "image": "/questions/LIG_q2.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "C",
+      "stimulusImage": "/questions/LIG_stim_1_5.png",
+      "page": 0,
+      "shape": [
+        301,
+        1321
+      ]
+    },
+    {
+      "number": 3,
+      "image": "/questions/LIG_q3.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "B",
+      "stimulusImage": "/questions/LIG_stim_1_5.png",
+      "page": 0,
+      "shape": [
+        277,
+        1318
+      ]
+    },
+    {
+      "number": 4,
+      "image": "/questions/LIG_q4.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "E",
+      "stimulusImage": "/questions/LIG_stim_1_5.png",
+      "page": 0,
+      "shape": [
+        378,
+        1417
+      ]
+    },
+    {
+      "number": 5,
+      "image": "/questions/LIG_q5.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "B",
+      "stimulusImage": "/questions/LIG_stim_1_5.png",
+      "page": 1,
+      "shape": [
+        265,
+        1318
+      ]
+    },
+    {
+      "number": 6,
+      "image": "/questions/LIG_q6.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "B",
+      "stimulusImage": "/questions/LIG_stim_6_11.png",
+      "page": 1,
+      "shape": [
+        286,
+        1320
+      ]
+    },
+    {
+      "number": 7,
+      "image": "/questions/LIG_q7.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "C",
+      "stimulusImage": "/questions/LIG_stim_6_11.png",
+      "page": 2,
+      "shape": [
+        248,
+        1416
+      ]
+    },
+    {
+      "number": 8,
+      "image": "/questions/LIG_q8.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "E",
+      "stimulusImage": "/questions/LIG_stim_6_11.png",
+      "page": 2,
+      "shape": [
+        197,
+        1319
+      ]
+    },
+    {
+      "number": 9,
+      "image": "/questions/LIG_q9.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "A",
+      "stimulusImage": "/questions/LIG_stim_6_11.png",
+      "page": 2,
+      "shape": [
+        198,
+        1319
+      ]
+    },
+    {
+      "number": 10,
+      "image": "/questions/LIG_q10.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "B",
+      "stimulusImage": "/questions/LIG_stim_6_11.png",
+      "page": 2,
+      "shape": [
+        274,
+        1318
+      ]
+    },
+    {
+      "number": 11,
+      "image": "/questions/LIG_q11.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "B",
+      "stimulusImage": "/questions/LIG_stim_6_11.png",
+      "page": 2,
+      "shape": [
+        197,
+        1318
+      ]
+    },
+    {
+      "number": 12,
+      "image": "/questions/LIG_q12.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "C",
+      "stimulusImage": "/questions/LIG_stim_12_15.png",
+      "page": 3,
+      "shape": [
+        282,
+        1320
+      ]
+    },
+    {
+      "number": 13,
+      "image": "/questions/LIG_q13.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "E",
+      "stimulusImage": "/questions/LIG_stim_12_15.png",
+      "page": 3,
+      "shape": [
+        311,
+        1319
+      ]
+    },
+    {
+      "number": 14,
+      "image": "/questions/LIG_q14.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "D",
+      "stimulusImage": "/questions/LIG_stim_12_15.png",
+      "page": 4,
+      "shape": [
+        286,
+        1417
+      ]
+    },
+    {
+      "number": 15,
+      "image": "/questions/LIG_q15.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "C",
+      "stimulusImage": "/questions/LIG_stim_12_15.png",
+      "page": 4,
+      "shape": [
+        273,
+        1318
+      ]
+    },
+    {
+      "number": 16,
+      "image": "/questions/LIG_q16.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "C",
+      "stimulusImage": "/questions/LIG_stim_16_20.png",
+      "page": 4,
+      "shape": [
+        274,
+        1318
+      ]
+    },
+    {
+      "number": 17,
+      "image": "/questions/LIG_q17.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "D",
+      "stimulusImage": "/questions/LIG_stim_16_20.png",
+      "page": 4,
+      "shape": [
+        346,
+        1416
+      ]
+    },
+    {
+      "number": 18,
+      "image": "/questions/LIG_q18.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "C",
+      "stimulusImage": "/questions/LIG_stim_16_20.png",
+      "page": 5,
+      "shape": [
+        273,
+        1320
+      ]
+    },
+    {
+      "number": 19,
+      "image": "/questions/LIG_q19.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "B",
+      "stimulusImage": "/questions/LIG_stim_16_20.png",
+      "page": 5,
+      "shape": [
+        273,
+        1318
+      ]
+    },
+    {
+      "number": 20,
+      "image": "/questions/LIG_q20.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "C",
+      "stimulusImage": "/questions/LIG_stim_16_20.png",
+      "page": 5,
+      "shape": [
+        311,
+        1321
+      ]
+    }
+  ],
+  "PM": [
+    {
+      "number": 1,
+      "image": "/questions/PM_q1.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "E",
+      "stimulusImage": "/questions/PM_stim_1_4.png",
+      "page": 0,
+      "shape": [
+        570,
+        619
+      ]
+    },
+    {
+      "number": 2,
+      "image": "/questions/PM_q2.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "B",
+      "stimulusImage": "/questions/PM_stim_1_4.png",
+      "page": 0,
+      "shape": [
+        495,
+        620
+      ]
+    },
+    {
+      "number": 3,
+      "image": "/questions/PM_q3.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "D",
+      "stimulusImage": "/questions/PM_stim_1_4.png",
+      "page": 0,
+      "shape": [
+        488,
+        620
+      ]
+    },
+    {
+      "number": 4,
+      "image": "/questions/PM_q4.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "A",
+      "stimulusImage": "/questions/PM_stim_1_4.png",
+      "page": 0,
+      "shape": [
+        765,
+        626
+      ]
+    },
+    {
+      "number": 5,
+      "image": "/questions/PM_q5.png",
+      "type": "short_answer",
+      "options": [],
+      "key": "40",
+      "stimulusImage": "/questions/PM_stim_5_8.png",
+      "page": 0,
+      "shape": [
+        120,
+        618
+      ]
+    },
+    {
+      "number": 6,
+      "image": "/questions/PM_q6.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "B",
+      "stimulusImage": "/questions/PM_stim_5_8.png",
+      "page": 0,
+      "shape": [
+        305,
+        614
+      ]
+    },
+    {
+      "number": 7,
+      "image": "/questions/PM_q7.png",
+      "type": "complex_table",
+      "options": [
+        "Benar",
+        "Salah"
+      ],
+      "key": [
+        "Benar",
+        "Salah",
+        "Salah"
+      ],
+      "stimulusImage": "/questions/PM_stim_5_8.png",
+      "page": 0,
+      "shape": [
+        751,
+        750
+      ],
+      "tableConfig": {
+        "columns": [
+          "Benar",
+          "Salah"
+        ],
+        "rowCount": 3,
+        "statementLabels": [
+          "Pernyataan 1",
+          "Pernyataan 2",
+          "Pernyataan 3"
+        ]
+      },
+      "short_key": "B-S-S"
+    },
+    {
+      "number": 8,
+      "image": "/questions/PM_q8.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "C",
+      "stimulusImage": "/questions/PM_stim_5_8.png",
+      "page": 1,
+      "shape": [
+        437,
+        625
+      ]
+    },
+    {
+      "number": 9,
+      "image": "/questions/PM_q9.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "B",
+      "stimulusImage": "/questions/PM_stim_9_12.png",
+      "page": 1,
+      "shape": [
+        345,
+        620
+      ]
+    },
+    {
+      "number": 10,
+      "image": "/questions/PM_q10.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "C",
+      "stimulusImage": "/questions/PM_stim_9_12.png",
+      "page": 1,
+      "shape": [
+        398,
+        619
+      ]
+    },
+    {
+      "number": 11,
+      "image": "/questions/PM_q11.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "C",
+      "stimulusImage": "/questions/PM_stim_9_12.png",
+      "page": 1,
+      "shape": [
+        478,
+        625
+      ]
+    },
+    {
+      "number": 12,
+      "image": "/questions/PM_q12.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "B",
+      "stimulusImage": "/questions/PM_stim_9_12.png",
+      "page": 2,
+      "shape": [
+        690,
+        750
+      ]
+    },
+    {
+      "number": 13,
+      "image": "/questions/PM_q13.png",
+      "type": "short_answer",
+      "options": [],
+      "key": "12",
+      "stimulusImage": "/questions/PM_stim_13_16.png",
+      "page": 2,
+      "shape": [
+        155,
+        619
+      ]
+    },
+    {
+      "number": 14,
+      "image": "/questions/PM_q14.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "E",
+      "stimulusImage": "/questions/PM_stim_13_16.png",
+      "page": 2,
+      "shape": [
+        397,
+        619
+      ]
+    },
+    {
+      "number": 15,
+      "image": "/questions/PM_q15.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "D",
+      "stimulusImage": "/questions/PM_stim_13_16.png",
+      "page": 2,
+      "shape": [
+        382,
+        626
+      ]
+    },
+    {
+      "number": 16,
+      "image": "/questions/PM_q16.png",
+      "type": "complex_table",
+      "options": [
+        "Benar",
+        "Salah"
+      ],
+      "key": [
+        "Benar",
+        "Benar",
+        "Benar"
+      ],
+      "stimulusImage": "/questions/PM_stim_13_16.png",
+      "page": 2,
+      "shape": [
+        805,
+        626
+      ],
+      "tableConfig": {
+        "columns": [
+          "Benar",
+          "Salah"
+        ],
+        "rowCount": 3,
+        "statementLabels": [
+          "Pernyataan 1",
+          "Pernyataan 2",
+          "Pernyataan 3"
+        ]
+      },
+      "short_key": "B-B-B"
+    },
+    {
+      "number": 17,
+      "image": "/questions/PM_q17.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "B",
+      "stimulusImage": "/questions/PM_stim_17_20.png",
+      "page": 3,
+      "shape": [
+        380,
+        619
+      ]
+    },
+    {
+      "number": 18,
+      "image": "/questions/PM_q18.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "E",
+      "stimulusImage": "/questions/PM_stim_17_20.png",
+      "page": 3,
+      "shape": [
+        325,
+        619
+      ]
+    },
+    {
+      "number": 19,
+      "image": "/questions/PM_q19.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "C",
+      "stimulusImage": "/questions/PM_stim_17_20.png",
+      "page": 3,
+      "shape": [
+        502,
+        625
+      ]
+    },
+    {
+      "number": 20,
+      "image": "/questions/PM_q20.png",
+      "type": "multiple_choice",
+      "options": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E"
+      ],
+      "key": "A",
+      "stimulusImage": "/questions/PM_stim_17_20.png",
+      "page": 3,
+      "shape": [
+        705,
+        626
+      ]
+    }
+  ]
+}
