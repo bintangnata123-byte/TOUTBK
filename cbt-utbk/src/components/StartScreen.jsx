@@ -195,7 +195,7 @@ export default function StartScreen({ onStartExam, hasSavedProgress, onResumeExa
               <div className="shrink-0 flex items-center">
                 {token.trim() === '' ? (
                   <span className="text-xs text-slate-400 italic px-2">
-                    Token akses: <strong className="font-mono text-slate-600">TOSUSULANUTBK</strong>
+                    Wajib diisi
                   </span>
                 ) : isTokenMatch ? (
                   <span className="bg-emerald-100 text-emerald-800 border border-emerald-300 text-xs font-bold px-3 py-2.5 rounded-xl flex items-center gap-1.5 shadow-2xs">
@@ -212,7 +212,7 @@ export default function StartScreen({ onStartExam, hasSavedProgress, onResumeExa
             </div>
 
             <p className="text-[11px] text-slate-500 leading-relaxed">
-              * Hubungi pengawas jika Anda belum memiliki token. Kode akses untuk tryout susulan ini adalah: <strong className="font-mono text-blue-700 font-bold bg-blue-50 px-1.5 py-0.5 rounded border border-blue-200">TOSUSULANUTBK</strong>
+              * Masukkan token akses ujian yang telah diberikan oleh pengawas atau panitia tryout.
             </p>
           </div>
         </div>
